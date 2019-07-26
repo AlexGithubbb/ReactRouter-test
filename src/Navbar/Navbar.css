@@ -1,0 +1,11 @@
+nav .active{
+  text-decoration: underline;
+}
+
+nav li:hover{
+  background-color: azure;
+}
+nav li a:hover{
+  color: black;
+}
+
