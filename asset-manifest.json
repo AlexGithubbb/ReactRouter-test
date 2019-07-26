@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactRouter-test/static/css/main.6f1b47e1.chunk.css",
+    "main.js": "/ReactRouter-test/static/js/main.a19759f5.chunk.js",
+    "main.js.map": "/ReactRouter-test/static/js/main.a19759f5.chunk.js.map",
+    "runtime~main.js": "/ReactRouter-test/static/js/runtime~main.d6a032c3.js",
+    "runtime~main.js.map": "/ReactRouter-test/static/js/runtime~main.d6a032c3.js.map",
+    "static/js/2.8714f3b9.chunk.js": "/ReactRouter-test/static/js/2.8714f3b9.chunk.js",
+    "static/js/2.8714f3b9.chunk.js.map": "/ReactRouter-test/static/js/2.8714f3b9.chunk.js.map",
+    "index.html": "/ReactRouter-test/index.html",
+    "precache-manifest.884b248e6bbd9c6c4a2cbb764b7477d5.js": "/ReactRouter-test/precache-manifest.884b248e6bbd9c6c4a2cbb764b7477d5.js",
+    "service-worker.js": "/ReactRouter-test/service-worker.js",
+    "static/css/main.6f1b47e1.chunk.css.map": "/ReactRouter-test/static/css/main.6f1b47e1.chunk.css.map"
+  }
+}
